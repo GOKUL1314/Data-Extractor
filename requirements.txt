@@ -1,0 +1,13 @@
+# Multi-Website Data Extraction and Categorization Tool
+# Dependencies list (100% Local Rule-Based Scraper - Fully offline)
+
+streamlit>=1.30.0
+requests>=2.31.0
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+playwright>=1.40.0
+pandas>=2.1.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
